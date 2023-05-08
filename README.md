@@ -1,2 +1,2 @@
-# bincomtest
-bincom test
+# BincomTest
+Bincom Test
